@@ -62,7 +62,7 @@ h2 {
 }
 
 .form-control.error input {
-    border-color: var(--success-color);
+    border-color: var(--error-color);
 }
 
 .form-control small {
